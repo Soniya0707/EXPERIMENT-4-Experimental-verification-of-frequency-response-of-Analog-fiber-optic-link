@@ -43,32 +43,37 @@ Fiber optic links can be used for transmission of digital as well as analog sign
 
 ## BLOCK DIAGRAM
 
-*(Insert block diagram here)*
+![WhatsApp Image 2025-11-10 at 19 42 54_89550d0c](https://github.com/user-attachments/assets/84e3fda5-1e9f-47f6-8777-1644f13a7c0c)
+
 
 ---
 
-## CONNECTION DIAGRAM  
-**Setting up an Analog Link**
+## MODEL GRAPH
 
-*(Insert connection diagram here)*
+<img width="543" height="497" alt="image" src="https://github.com/user-attachments/assets/6b26beb9-07bc-4335-a449-86ec8d008dc0" />
+
+<img width="382" height="310" alt="image" src="https://github.com/user-attachments/assets/f852a080-0f73-4c32-be97-59308c80f48a" />
 
 ---
 
 ## TABULATION  
 **Transmission through Analog Link**
 
-| Frequency (Hz) | Output Signal Amplitude (Vo) | Gain = Vo/Vi | Gain in dB |
-|----------------|------------------------------|--------------|------------|
-|                |                              |              |            |
+<img width="445" height="412" alt="image" src="https://github.com/user-attachments/assets/31b25bf1-a201-433e-9abe-acc1005ec831" />
 
----
 
-## MODEL GRAPH
+##  GRAPH
 
-*(Insert model graph here)*
+<img width="462" height="363" alt="image" src="https://github.com/user-attachments/assets/91f9478c-7eba-4e79-b186-82c3f2325602" />
+
+## MARKS SPLITUP
+
+<img width="371" height="310" alt="image" src="https://github.com/user-attachments/assets/e2e0e9f7-68f2-437f-8932-2d3ec4f615b7" />
+
+
 
 ---
 
 ## RESULT
 
-*(Summarize observations and conclusions here)*
+Hence to analyze the relationship between input and received signal of a 660nm fiber optic cable using analog and digital link is verified.
